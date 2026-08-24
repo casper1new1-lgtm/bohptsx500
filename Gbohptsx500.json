@@ -30,11 +30,11 @@
     },
 	{
       "name": "system/x7/Skillgrp.dat",
-      "url": "https://github.com/casper1new1-lgtm/bohptsx7/raw/refs/heads/main/Skillgrp.dat"
+      "url": "https://github.com/casper1new1-lgtm/bohptsx500/raw/refs/heads/main/Skillgrp.dat"
     },
 	{
-      "name": "system/x7/L2GameDataName.dat",
-      "url": "https://github.com/casper1new1-lgtm/bohptsx7/raw/refs/heads/main/L2GameDataName.dat"
+      "name": "system/x500/L2GameDataName.dat",
+      "url": "https://github.com/casper1new1-lgtm/bohptsx500/raw/refs/heads/main/L2GameDataName.dat"
     },
 	{
       "name": "system/user.ini",
